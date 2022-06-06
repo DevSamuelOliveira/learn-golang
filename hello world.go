@@ -1,7 +1,7 @@
-package main //Referencia o arquivo principal
+package main // Referencia o arquivo principal
 
 import (
-	"fmt" //importa as funções de formatação default
+	"fmt" // importa as funções de formatação default
 )
 
 func main(){ //Rerefencia a função principal
